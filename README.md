@@ -45,3 +45,7 @@
 
 7. 단수(Singular) 보다는 복수(Plural)형 명사를 사용.
 	ex) http://restapi.example.com/sports/soccer/players/13
+	
+### 추가된 규칙
+1. 클래스이름 첫문자는 대문자로 ex) appleController -> AppleController (0)
+2. JOIN을 사용해서 여러 테이블에 컬럼을 조회할 때는 resultType map으로 하기
