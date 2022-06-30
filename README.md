@@ -49,3 +49,4 @@
 ### 추가된 규칙
 1. 클래스이름 첫문자는 대문자로 ex) appleController -> AppleController (0)
 2. JOIN을 사용해서 여러 테이블에 컬럼을 조회할 때는 resultType map으로 하기
+3. 항상 웃는얼굴로 코딩하기
